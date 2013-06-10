@@ -1,7 +1,7 @@
 OA Matrizes
 ===========
 
-OA é a sigla para objeto de aprendizagem, Objetos de aprendizagem são recursos digitais ou não digitais reutilizáveis no processo de aprendizagem.
+OA é a sigla para Objeto de Aprendizagem, Objetos de aprendizagem são recursos digitais ou não digitais reutilizáveis no processo de aprendizagem.
 
 No IFF (Instituto Federal de Educação, Ciência e Tecnologia) Existe um Núcleo de Pesquisa voltado para o desenvolvimento e manutenção de Objetos de aprendizagem.
 
